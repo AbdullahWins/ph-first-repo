@@ -1,0 +1,25 @@
+#header {
+    text-align: center;
+}
+
+.blog {
+    display: flex;
+    flex-direction: column;
+    margin: 2em;
+    border: 1em solid red;
+}
+
+.title {
+    text-align: left;
+}
+
+.auther {
+    text-align: left;
+}
+
+.img {
+    width: 10em;
+}
+.paragraph {
+    text-align: justify;
+}
